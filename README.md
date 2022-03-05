@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romulopossatto
 - 👀 I’m interested in a half time developer job
 - 🌱 I’m currently learning React.js, Node.js and React Native
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any project, but health systems project, specially dentistry, are my target.
 - 📫 How to reach me? e-mail: romulopossatto@gmail.com
 
 <!---
